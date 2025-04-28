@@ -1,0 +1,7 @@
+
+    train: /content/drive/MyDrive/yolo_dataset/splits/fold_2/train/images
+    val: /content/drive/MyDrive/yolo_dataset/splits/fold_2/test/images
+
+    nc: 10
+    names: ['машина', 'бордюр', 'дверь', 'стена', 'лестница', 'спуск', 'яма', 'люк', 'ограждение', 'трамвайные пути']
+    
